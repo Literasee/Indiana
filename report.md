@@ -13,9 +13,9 @@ maintaining proficiency. This is what is meant by growth to standard.
 __Value 3:__ Growth should be a distinct metric, independent of school performance status (percent proficient). The
 metric should have a low correlation to performance.
 
-The development of the current Indiana Growth to Standard Model involved overcoming several common misconceptions linked to below.
+The development of the current Indiana Growth to Standard Model involved overcoming several common misconceptions including:
 
-[Subtraction is not a growth model](https://view.literasee.io/Literasee/Indiana/report#subtraction-is-not-a-growth-model)
+* [Subtraction is not a growth model](https://view.literasee.io/Literasee/Indiana/report#subtraction-is-not-a-growth-model)
 
 
 ## A-F and Student Growth for Schools
