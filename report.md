@@ -6,8 +6,10 @@ policy. Individual student learning (i.e., student growth) is a cornerstone of I
 schools. The incorporation of growth is done in accordance with the following values:
 
 __Value 1:__ Schools should be held accountable for individual student learning (i.e., student growth).
+
 __Value 2:__ Individual student growth is always considered relative to Indiana State standards: a student reaching or
 maintaining proficiency. This is what is meant by growth to standard.
+
 __Value 3:__ Growth should be a distinct metric, independent of school performance status (percent proficient). The
 metric should have a low correlation to performance.
 
