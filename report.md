@@ -42,6 +42,8 @@ are two problems with scale score subtraction.
 2. Even when scale scores can be subtracted (as with ISTEP+ results from previous years.) One cannot evaluate growth
 for students starting at different places because growth depends upon where a student starts.  
 
+### A tale of two high jumpers
+
 ![alt text](https://raw.githubusercontent.com/Literasee/Indiana/master/high_jump_figure.png "Improvement for two high jumpers")
 
 The reason for 2 is often not clear until one looks more closely at a simple example. Consider two high jumpers, Anna and
