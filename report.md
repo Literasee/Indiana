@@ -11,6 +11,9 @@ maintaining proficiency. This is what is meant by growth to standard.
 __Value 3:__ Growth should be a distinct metric, independent of school performance status (percent proficient). The
 metric should have a low correlation to performance.
 
+[Subtraction is not a growth model](https://view.literasee.io/Literasee/Indiana/report#subtraction-is-not-a-growth-model)
+
+
 ## A-F and Student Growth for Schools
 
 Combining individual student growth at the school level in a manner consistent with the above mentioned values is performed
@@ -35,7 +38,7 @@ are two problems with scale score subtraction.
 2. Even when scale scores can be subtracted (as with ISTEP+ results from previous years.) One cannot evaluate growth
 for students starting at different places because growth depends upon where a student starts.  
 
-![Improvement for two high jumpers]("high_jump_figure.png")
+![Improvement for two high jumpers](high_jump_figure.png)
 
 The reason for 2 is often not clear until one looks more closely at a simple example. Consider two high jumpers, Anna and
 Judy. Anna is a novice higher jumper and Judy is a world class competitor. Anna’s best jump in 2013 was 3 feet 6 inches and
@@ -49,4 +52,4 @@ Understanding Anna’s and Judy’s improvement requires one to compare them to 
 like theirs. A 2 inch increase for an elite high jumper is remarkable whereas 6 inches for a novice is typical.
 
 The same holds with growth in ISTEP+ test scores. Like in the high jump example, changes for lower achieving students tend to
-be much larger than those for high achieving students. 
+be much larger than those for high achieving students.
