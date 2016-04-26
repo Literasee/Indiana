@@ -15,7 +15,7 @@ metric should have a low correlation to performance.
 
 The development of the current Indiana Growth to Standard Model involved overcoming several common misconceptions linked to below.
 
-[__Subtraction is not a growth model__](https://view.literasee.io/Literasee/Indiana/report#subtraction-is-not-a-growth-model)
+[Subtraction is not a growth model](https://view.literasee.io/Literasee/Indiana/report#subtraction-is-not-a-growth-model)
 
 
 ## A-F and Student Growth for Schools
