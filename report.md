@@ -48,7 +48,7 @@ of growth points per student is calculated that is used as part of the A to F ca
 For simplicity sake, assume Brigg's Elementary School has 10 students with the following Prior Year Status and Observed Growth:
 
 | Student | Prior Year Status | Observed Growth |
--------------------------------------------
+|-----------|-----------------|---------------|
 | Student 1 | Pass + 1 | 32 |
 | Student 2 | Pass 1 | 67 |
 | Student 3 | Pass 2 | 89 |
