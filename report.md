@@ -31,6 +31,9 @@ target range.
 The growth to proficiency table defines a set of prior year starting levels and numeric growth ranges that establish points
 to be awarded to schools based upon the goal of a student reaching/maintaining proficiency.
 
+![alt text](https://raw.githubusercontent.com/Literasee/Indiana/master/Indiana_growth_table.png "Indiana Growth To Proficiency Value-Table")
+
+
 ## Subtraction is not a growth model
 
 A common belief among users of ISTEP+ data is that one can simply subtract student scores from one grade to the next and use
