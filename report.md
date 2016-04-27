@@ -33,6 +33,7 @@ to be awarded to schools based upon the goal of a student reaching/maintaining p
 
 ![alt text](https://raw.githubusercontent.com/Literasee/Indiana/master/Indiana_growth_table.png "Indiana Growth To Proficiency Value-Table")
 
+---
 
 ## Subtraction is not a growth model
 
